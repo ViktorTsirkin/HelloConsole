@@ -1,0 +1,15 @@
+G:\Обучение программированию\C#_Lection\1_HelloConsole\bin\Debug\net6.0\1_HelloConsole.exe
+G:\Обучение программированию\C#_Lection\1_HelloConsole\bin\Debug\net6.0\1_HelloConsole.deps.json
+G:\Обучение программированию\C#_Lection\1_HelloConsole\bin\Debug\net6.0\1_HelloConsole.runtimeconfig.json
+G:\Обучение программированию\C#_Lection\1_HelloConsole\bin\Debug\net6.0\1_HelloConsole.dll
+G:\Обучение программированию\C#_Lection\1_HelloConsole\bin\Debug\net6.0\1_HelloConsole.pdb
+G:\Обучение программированию\C#_Lection\1_HelloConsole\obj\Debug\net6.0\1_HelloConsole.csproj.AssemblyReference.cache
+G:\Обучение программированию\C#_Lection\1_HelloConsole\obj\Debug\net6.0\1_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+G:\Обучение программированию\C#_Lection\1_HelloConsole\obj\Debug\net6.0\1_HelloConsole.AssemblyInfoInputs.cache
+G:\Обучение программированию\C#_Lection\1_HelloConsole\obj\Debug\net6.0\1_HelloConsole.AssemblyInfo.cs
+G:\Обучение программированию\C#_Lection\1_HelloConsole\obj\Debug\net6.0\1_HelloConsole.csproj.CoreCompileInputs.cache
+G:\Обучение программированию\C#_Lection\1_HelloConsole\obj\Debug\net6.0\1_HelloConsole.dll
+G:\Обучение программированию\C#_Lection\1_HelloConsole\obj\Debug\net6.0\refint\1_HelloConsole.dll
+G:\Обучение программированию\C#_Lection\1_HelloConsole\obj\Debug\net6.0\1_HelloConsole.pdb
+G:\Обучение программированию\C#_Lection\1_HelloConsole\obj\Debug\net6.0\1_HelloConsole.genruntimeconfig.cache
+G:\Обучение программированию\C#_Lection\1_HelloConsole\obj\Debug\net6.0\ref\1_HelloConsole.dll
